@@ -1,11 +1,9 @@
-#Given below is a Dockerfile that can be used to create a runtime environment for a simple linear regression example
+# Question 1
+PS C:\Users\User> cd C:\infosys\IEM4723_Fall2026_Assignments\assignment1\regression_container
+docker build -t linear-regression-app .
+docker tag linear-regression-app elysesardega/linear-regression-app:v0.1.1
+docker tag linear-regression-app elysesardega/linear-regression-app:v0.1.2
+docker tag linear-regression-app elysesardegna/linear-regression-app:latest #made a mistake in tagging
+docker push linear-regression-app elysesardegna/linear-regression-app:latest
 
-FROM python:3.12-slim
-
-RUN pip install --no-cache-dir numpy scikit-learn
-
-WORKDIR /home/iem4723/
-
-COPY . /home/iem4723/
-
-CMD ["echo", "build successful"]
+# Question 2
