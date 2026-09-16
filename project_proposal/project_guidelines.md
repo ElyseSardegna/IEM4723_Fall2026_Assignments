@@ -60,11 +60,11 @@ The project accounts for 35% of the overall course grade, broken down as follows
 ### Rubric for Grading
 
 1. Clarity of the Problem Statement, including which real-world process or entity is being modeled and why it matters. (Refer to the "Key Questions" presented before).
-5. Description of expected system capabilities, stated concretely rather than vaguely.
-2. Thoroughness of the data used, including identification of appropriate sources and justification of data quality and volume.
-2. Thoroughness of the relational schema, including appropriate normalization and justification of design choices.
-2. Soundness of the containerized architecture, including correct use of Docker networking, volumes, and multi-container orchestration.
-3. Functionality and clarity of the Streamlit dashboard, including whether it answers realistic questions a user of the system would ask.
+2. Description of expected system capabilities, stated concretely rather than vaguely.
+3. Thoroughness of the data used, including identification of appropriate sources and justification of data quality and volume.
+4. Thoroughness of the relational schema, including appropriate normalization and justification of design choices.
+5. Soundness of the containerized architecture, including correct use of Docker networking, volumes, and multi-container orchestration.
+6. Functionality and clarity of the Streamlit dashboard, including whether it answers realistic questions a user of the system would ask.
 7. Scope for improvement, including any proposed extensions such as NoSQL caching or AI agent integration.
 
 
