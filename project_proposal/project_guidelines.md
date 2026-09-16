@@ -14,7 +14,7 @@ For choosing your problem statement, you can think of real-world problems like t
 2. An IoT analysis framework for real-time equipment monitoring. You can use either the [HAI dataset](https://github.com/icsdataset/hai) or other kaggle datasets like this [one](https://www.kaggle.com/datasets/nikitamanaenkov/time-series-of-industrial-boiler-operations/data) for industrial boilers.
 3. An inventory management analysis dataset such as this [one](https://www.kaggle.com/datasets/harshadashirin/inventory-mangement-analysis-sql-based-project) for a small local business, tracking products, sales transactions, and reorder points, with a dashboard summarizing daily and weekly sales.
 
-**Each team needs to have a distinct dataset that they are working with.** To avoid conflicts I have created a file on the course assignment GitHub Page (https://github.com/disys-lab/IEM4723_Fall2026_Assignments/tree/main/project_proposal). Dataset priority is granted in the order PRs are received. Teams that submit earlier will be given precedence for their requested dataset.
+**Each team needs to have a distinct dataset that they are working with.** To avoid conflicts I have created a file on the course assignment GitHub Page (https://github.com/disys-lab/IEM4723_Fall2026_Assignments/tree/main/project_proposal/team_datasets.md). Dataset priority is granted in the order PRs are received. Teams that submit earlier will be given precedence for their requested dataset.
 
 ### Project Components 
 
