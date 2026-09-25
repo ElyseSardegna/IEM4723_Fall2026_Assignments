@@ -9,3 +9,8 @@ Please add your team's details below by submitting a pull request or filling out
 2. **Team Members** — List all team members, separated by commas.
 3. **Dataset Used** — Provide the name of the dataset as a markdown link to its source (e.g., Kaggle, UCI, GitHub repo).
 
+| | | | | | | | | | | | | | |
+
+1. ARK
+  - Andrew Gungoll, Ryan Leslie, Killian Barnes
+  - [Kaggle: College Major ROI](https://www.kaggle.com/datasets/sergionefedov/college-major-roi)
