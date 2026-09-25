@@ -12,3 +12,7 @@ Please add your team's details below by submitting a pull request or filling out
 **Team Name:** The Detectives
 **Team Members:** Kate Pritchett, Elyse Sardegna, Trinity Young
 **Dataset:** https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+
+1. ARK
+  - Andrew Gungoll, Ryan Leslie, Killian Barnes
+  - [Kaggle: College Major ROI](https://www.kaggle.com/datasets/sergionefedov/college-major-roi)
